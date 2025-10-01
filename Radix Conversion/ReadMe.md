@@ -15,6 +15,6 @@ This folder contains radix conversion implemented in Verilog.
 ```
 step1: "cd {enter the path that file saved}" // with in curly brackets
 step2: "vlib work"
-step3: "vlog file_name.v"
-step4: "vsim module_name"
+step3: "vlog design.v" // elloboration
+step4: "vsim radix" // simulation
 step5: "run -all"
