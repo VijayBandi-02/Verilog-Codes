@@ -13,8 +13,8 @@ This folder contains radix conversion implemented in Verilog.
 
 ## ▶ How to Run (with ModelSim)
 ```
-step1: "cd {enter the path that file saved}" // with in curly brackets
+step1: "cd {enter the path that file saved}" //with in curly brackets
 step2: "vlib work"
-step3: "vlog radix.v"
-step4: "vsim radix"
+step3: "vlog radix.v" //vlog file_name.v
+step4: "vsim radix" //vsim module_name
 step5: "run -all"
