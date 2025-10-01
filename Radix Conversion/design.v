@@ -4,15 +4,15 @@ module radix;
 	integer	dec_num;	// decimal number
 	integer	hex_num;	// hexa decimal number
 	
-	intial begin
-		bin_num = 'b10111011; #1;
-		oct_num = 'o6; #1;
-		dec_num = 'd23; #1;
-		hex_num = 'hABCD; #1;
+	initial begin
+		bin_num = 'b10111011;#1;
+		oct_num = 'o6;#1;
+		dec_num = 'd23;#1;
+		hex_num = 'hABCD;#1;
 
-		$display("Binary number %b in -> octal : %o, decimal : %d, hexa : %h", bin_num, bin_num, bin_num, bin_num);
-		$display("Octal number %o in -> binary : %b, decimal : %d, hexa : %h", oct_num, oct_num, oct_num, oct_num);
-		$display("Decimal number %d in -> binary : %b, octal : %o, hexa : %h", dec_num, dec_num, dec_num, dec_num);
-		$display("Hexa number %h in -> binary : %b, octal : %o, decimal : %d", hex_num, hex_num, hex_num, hex_num);
+		$display("Binary number %0b in -> octal : %0o, decimal : %0d, hexa : %0h", bin_num, bin_num, bin_num, bin_num);
+		$display("Octal number %0o in -> binary : %0b, decimal : %0d, hexa : %0h", oct_num, oct_num, oct_num, oct_num);
+		$display("Decimal number %0d in -> binary : %0b, octal : %0o, hexa : %0h", dec_num, dec_num, dec_num, dec_num);
+		$display("Hexa number %0h in -> binary : %0b, octal : %0o, decimal : %0d", hex_num, hex_num, hex_num, hex_num);
 	end
 endmodule
