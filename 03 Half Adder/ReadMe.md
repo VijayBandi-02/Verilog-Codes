@@ -1,13 +1,17 @@
 ## 📂 Folder Structure
 
 03 Half Adder
+
 │── HA.v        # Design file
+
 │── HATB.v      # Testbench file
+
 |── FA using HA # FullAdder using HalfAdder folder
+
 │── README.md   # Documentation
 
 
-## 🟠 Half Adder – Verilog 
+# 🟠 Half Adder – Verilog 
 ## 📌 Introduction:
 
 A **Half Adder** is a basic combinational circuit that performs the addition of two single-bit binary numbers.
