@@ -1,6 +1,7 @@
 ## 📂 Folder Structure
 
 04 Full Adder
+
 │── design.v        # Design file
 
 │── test bench.v      # Testbench file
@@ -9,7 +10,7 @@
 
 
 ## 🟠 Full Adder – Verilog 
-## 📌 Introduction:
+📌 Introduction:
 A *Full Adder* is a basic combinational circuit that performs the addition of three single-bit binary numbers.
 It has *three inputs (A, B, C)* and *two outputs (Sum, Carry).*
 
@@ -18,18 +19,16 @@ It has *three inputs (A, B, C)* and *two outputs (Sum, Carry).*
 * *Carry (C) = A ⋅ B + B ⋅ C + C ⋅ A*
 
 ## 📊 Truth Table
------------------------
-| a b c | sum | carry |
------------------------
-| 0 0 0 |  0  |   0   |
-| 0 0 1 |  1  |   0   |
-| 0 1 0 |  1  |   0   |
-| 0 1 1 |  0  |   1   |
-| 1 0 0 |  1  |   0   |
-| 1 0 1 |  0  |   1   |
-| 1 1 0 |  0  |   1   |
-| 1 1 1 |  1  |   1   |
------------------------
+| A | B | Cin | Sum | Carry |  
+|---|---|-----|-----|--------|  
+| 0 | 0 | 0 | 0 | 0 |  
+| 0 | 0 | 1 | 1 | 0 |  
+| 0 | 1 | 0 | 1 | 0 |  
+| 0 | 1 | 1 | 0 | 1 |  
+| 1 | 0 | 0 | 1 | 0 |  
+| 1 | 0 | 1 | 0 | 1 |  
+| 1 | 1 | 0 | 0 | 1 |  
+| 1 | 1 | 1 | 1 | 1 |
 
 
 ## ▶ How to Run (with ModelSim)
