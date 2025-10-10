@@ -4,11 +4,13 @@
 
 │── HA.v        # Design file
 
-│── HATB.v      # Testbench file
+│── HA_TB.v      # Testbench file
 
-|── FA using HA # FullAdder using HalfAdder folder
+|── FA_using_HA # FullAdder using HalfAdder folder
 
 │── README.md   # Documentation
+
+![image alt](https://github.com/VijayBandi-02/Verilog-Codes/blob/6f49ab3ec23c574e552350dd0a0fbd6feaa0662c/Combinational_Circuits/03%20Half_Adder/03%20HA.png)
 
 
 # 🟠 Half Adder – Verilog 
