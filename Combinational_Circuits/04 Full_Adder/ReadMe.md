@@ -2,11 +2,13 @@
 
 04 Full Adder
 
-│── design.v        # Design file
+│── FA.v        # Design file
 
-│── test bench.v      # Testbench file
+│── FA_TB.v      # Testbench file
 
 │── README.md   # Documentation
+
+![image alt](https://github.com/VijayBandi-02/Verilog-Codes/blob/c1726ba861bc5d41c13cfea57152ccf8cb669f4a/Combinational_Circuits/04%20Full_Adder/04%20FA.jpg)
 
 
 ## 🟠 Full Adder – Verilog 
