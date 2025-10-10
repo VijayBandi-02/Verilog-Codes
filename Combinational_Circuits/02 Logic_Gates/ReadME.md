@@ -1,9 +1,10 @@
 # Logic Gates in Verilog
 
-## 📂 Files
+📂 Files
 - `Gates.v` : Verilog design of basic logic gates.
 - `Gates_TB.v` : Testbench for verifying the gates.
-
+ 
+![image alt](https://github.com/VijayBandi-02/Verilog-Codes/blob/e313c2cc37a75403a43b8a6f7fc1576cc8568380/Combinational_Circuits/02%20Logic_Gates/02%20Logic_Gates.jpg)
 ## ✅ Logic Gates Implemented
 - Buffer
 - AND
