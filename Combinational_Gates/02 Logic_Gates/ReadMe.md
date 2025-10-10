@@ -1,8 +1,8 @@
 # Logic Gates in Verilog
 
 ## 📂 Files
-- `design.v` : Verilog design of basic logic gates.
-- `TestBench.v` : Testbench for verifying the gates.
+- `Gates.v` : Verilog design of basic logic gates.
+- `Gates_TB.v` : Testbench for verifying the gates.
 
 ## ✅ Logic Gates Implemented
 - Buffer
