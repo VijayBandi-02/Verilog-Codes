@@ -1,5 +1,5 @@
 ## 🟠 Full Adder using Half Adder – Verilog  
-
+![image at](https://github.com/VijayBandi-02/Verilog-Codes/blob/903f144f3d1b004ab52208f35b2c8b8b27cc16f5/Combinational_Circuits/03%20Half_Adder/FA_using_HA/FA_using_HA.webp)
 # 📌 Introduction:  
 A **Full Adder** adds three single-bit binary numbers — *A, B,* and *Cin (carry input)* — to produce a *Sum* and a *Carry* output.  
 In this design, a **Full Adder** is implemented using **two Half Adders** and one **OR gate**, demonstrating **hierarchical and structural modeling** in Verilog.
