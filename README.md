@@ -3,8 +3,8 @@
 This repository contains a collection of **Verilog HDL codes** along with testbenches, designed to cover the fundamental concepts of **Digital Logic and Sequential Circuits**.  
 
 ## 📂 Repository Structure  
-- `Combinational Ckts/` → All the Combinational and combined Combnational Circuits.  
-- `02_FlipFlops/` → All the Sequential and combined Sequential Circuits.
+- `Combinational_Circuits/` → All the Combinational and combined Combnational Circuits.  
+- `Sequential_Circuits/` → All the Sequential and combined Sequential Circuits.
 
 Each folder contains:  
 - `design.v` → Verilog code for the circuit  
