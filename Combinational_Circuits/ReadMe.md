@@ -1,0 +1,14 @@
+## 📂 `Combinational_Circuits/` Structure  
+- `01 Radix_Conversion/` → Conversion of one radix to another radix(Bin, Oct, Dec, Hex).
+  - `Radix.v` → Design and Testbench.
+- `02 Logic_Gates/` → All the Logic gates.
+  - `Gates.v` → Design file.
+  - `Gates_TB.v` → Testbench.
+- `03 Half_Adder/` → Half_Adders.
+  - `HA.v` → Design file.
+  - `HA_TB.v` → Testbench.
+  - `FA_using_HA/` → Full_Adder Using Half_Adder Folder.
+    - `design.v` → Design and Testbench.
+- `04 Full_Adder/` → Full_Adders.
+  - `FA.v` → Design file.
+  - `FA_TB.v` → Testbench.
