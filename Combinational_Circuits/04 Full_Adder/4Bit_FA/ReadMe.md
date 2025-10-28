@@ -1,4 +1,4 @@
-![image alt]()
+![image alt](https://github.com/VijayBandi-02/Verilog-Codes/blob/main/Combinational_Circuits/04%20Full_Adder/4Bit_FA/four_bit_FA.jpg)
 
 ## 🟣 4-Bit Full Adder – Verilog
 
@@ -47,7 +47,7 @@ Each subsequent adder receives the carry output from the previous stage, enablin
 ```bash
 step1: cd {enter the path where the file is saved}
 step2: vlib work
-step3: vlog FA4bitTB.v          # Compile the testbench
-step4: vsim FA4bitTB            # Load simulation
-step5: add wave -position insertpoint sim:/FA4bitTB/*
+step3: vlog four_bit_FA.v       # Compile the testbench
+step4: vsim 4Bit_FA            # Load simulation
+step5: add wave -position insertpoint sim:/FA4bitTB/* #if needed
 step6: run -all
