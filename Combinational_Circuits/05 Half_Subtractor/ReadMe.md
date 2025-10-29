@@ -1,4 +1,4 @@
-![image alt]()
+![image alt](https://github.com/VijayBandi-02/Verilog-Codes/blob/main/Combinational_Circuits/05%20Half_Subtractor/half_sub.webp)
 
 ## 📂 Folder Structure
 
