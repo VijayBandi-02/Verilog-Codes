@@ -14,3 +14,6 @@
   - `FA_TB.v` → Testbench.
   - `4Bit_FA/` → 4 bit Full_Adder using 1 bit Full_Adder Folder.
     - `4Bit_FA.v` → Design and Testbench.
+- `05 Half_Subtractor/` → Half_Subtractors.
+  - `HS.v` → Design file.
+  - `HS_TB.v` → Testbench.
