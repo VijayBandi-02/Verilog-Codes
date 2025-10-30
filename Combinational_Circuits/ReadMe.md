@@ -17,3 +17,6 @@
 - `05 Half_Subtractor/` → Half_Subtractors.
   - `HS.v` → Design file.
   - `HS_TB.v` → Testbench.
+- `06 Full_Subtractor/` → Full_Subtractors.
+  - `FS.v` → Design file.
+  - `FS_TB.v` → Testbench.
