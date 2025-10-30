@@ -20,3 +20,6 @@
 - `06 Full_Subtractor/` → Full_Subtractors.
   - `FS.v` → Design file.
   - `FS_TB.v` → Testbench.
+  - `4Bit_FS` → 4 Bit full_subtractor file.
+    - `4Bit_FS.v` → Design file.
+    - `4Bit_FS_TB.v` → Testbench
